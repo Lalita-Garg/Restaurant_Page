@@ -3,8 +3,8 @@ Author-Lalita GArg
 # A Simple Resturant HomePage Using HTML and CSS
 
 ## Overview 
-This is second project in the journey of learning HTML and CSS.
-I created this project with the purpose of learning HTML and CSS from scratch .  This project is created without using flex and flexbox and that helped me learn the concept of positions more clearly.
+
+I created this project with the purpose of learning HTML and CSS from scratch .  This project is created without using flex and flexbox and that helped me learn the concept of positions more clearly. This is a simple, static, non-responsive website .
 
 ## Technologies Used
 - HTML
@@ -23,7 +23,7 @@ I created this project with the purpose of learning HTML and CSS from scratch . 
 
 ## Time Taken : 3 Hrs 
 
-## Deployment Link : [Live]()
+## Deployment Link : [Live](https://02-resturant-webpage.netlify.app/)
 
 
 

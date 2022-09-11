@@ -6,6 +6,9 @@
 }
 body {
   background-image: url(./assets/pexels-maxyne-barcel-10402282\ 1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 .container {
   background-color: rgb(49, 53, 71, 0.7);
@@ -68,7 +71,7 @@ body {
   letter-spacing: -2px;
 }
 .button-large{
-  margin-left: 45%;
+  margin-left: 650px;
   width: 230px;
   height: 65px;
   background-color: #ff505f;
