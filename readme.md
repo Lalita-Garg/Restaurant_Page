@@ -23,7 +23,7 @@ I created this project with the purpose of learning HTML and CSS from scratch . 
 
 ## Time Taken : 3 Hrs 
 
-## Deployment Link : [Live](https://02-resturant-webpage.netlify.app/)
+## Deployment Link : [Live](https://restaurant-page-pi.vercel.app/)
 
 
 
